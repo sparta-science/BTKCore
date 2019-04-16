@@ -1,1 +1,8 @@
 build*
+CMakeFiles
+**/Makefile
+bin/
+btkConfigure.h
+*.cmake
+CMakeCache.txt
+
